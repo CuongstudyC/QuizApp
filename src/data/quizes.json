@@ -1,0 +1,305 @@
+[
+    {
+        "id": 1,
+        "img": "./src/images/Math.jpg",
+        "name": "Math",
+        "question": [
+            {
+                "id":1,
+                "text": "1 + 1 = ?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "2",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id":3,
+                        "label": "C",
+                        "text": "3",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "4",
+                        "isCorrect": false
+                    }
+                ]
+            },
+
+            {
+                "id":2,
+                "text": "8 + 8 - 8 + 8 = ?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "10",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "12",
+                        "isCorrect": false
+                    },
+                    {
+                        "id":3,
+                        "label": "C",
+                        "text": "16",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "15",
+                        "isCorrect": false
+                    }
+                ]
+            },
+
+            {
+                "id":3,
+                "text": "pow(2,3) = ?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "24",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "10",
+                        "isCorrect": false
+                    },
+                    {
+                        "id":3,
+                        "label": "C",
+                        "text": "6",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "8",
+                        "isCorrect": true
+                    }
+                ]
+            }
+            
+        ]
+    },
+    {
+        "id": 2,
+        "img": "./src/images/tiengAnh.jpg",
+        "name": "English",
+        "question": [
+            {
+                "id":1,
+                "text": "How are you means?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Tôi chào bạn!",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Bạn khỏe không?",
+                        "isCorrect": true
+                    },
+                    {
+                        "id":3,
+                        "label": "C",
+                        "text": "Bạn bao nhiêu tuổi?",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Bạn sống như thế nào?",
+                        "isCorrect": false
+                    }
+                ]
+            },
+
+            {
+                "id":2,
+                "text": "Where are you from means?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Bạn sống ở đâu?",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Bạn sống như thế nào?",
+                        "isCorrect": false
+                    },
+                    {
+                        "id":3,
+                        "label": "C",
+                        "text": "Bạn dạo này khỏe không?",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Bạn sinh năm bao nhiêu?",
+                        "isCorrect": false
+                    }
+                ]
+            },
+
+            {
+                "id":3,
+                "text": "Where does June come before May?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Earth",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Ground",
+                        "isCorrect": false
+                    },
+                    {
+                        "id":3,
+                        "label": "C",
+                        "text": "Dictionary",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Calendar",
+                        "isCorrect": false
+                    }
+                ]
+            }
+            
+        ]
+    },
+
+    {
+        "id": 3,
+        "img": "./src/images/TinHoc.png",
+        "name": "IT",
+        "question": [
+            {
+                "id":1,
+                "text": "Câu lệnh để số thập phân lun làm tròn lên trong javascript? ",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Math.floor()",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Math.round()",
+                        "isCorrect": false
+                    },
+                    {
+                        "id":3,
+                        "label": "C",
+                        "text": "Math.random()",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Math.ceil()",
+                        "isCorrect": true
+                    }
+                ]
+            },
+
+            {
+                "id":2,
+                "text": "Câu lệnh xuất 1 mảng từ js sang html trong vue 3?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "v-if",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "v-for",
+                        "isCorrect": true
+                    },
+                    {
+                        "id":3,
+                        "label": "C",
+                        "text": "v-bind",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "v-show",
+                        "isCorrect": false
+                    }
+                ]
+            },
+
+            {
+                "id":3,
+                "text": "Dùng display nào dễ nhất có thể canh chỉnh 2 góc đầu và cuối theo chiều dọc trong css?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "flex",
+                        "isCorrect":  true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "inline",
+                        "isCorrect": false
+                    },
+                    {
+                        "id":3,
+                        "label": "C",
+                        "text": "block",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "grid",
+                        "isCorrect": false
+                    }
+                ]
+            }
+            
+        ]
+    }
+
+
+]

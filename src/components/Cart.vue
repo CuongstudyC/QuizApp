@@ -26,7 +26,7 @@
 <template>
     <div>
         <div class="card" @click="navigateToQuize()">
-       <img :src="quiz.img" alt="">
+       <img  alt="" :src="quiz.img">
           <div class="card-text">
             <h2>{{ quiz.name }}</h2>
             <p>{{ quiz.question.length }} questions</p>

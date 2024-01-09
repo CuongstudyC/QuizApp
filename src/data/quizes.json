@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "img": "./src/images/Math.jpg",
+        "img": "https://media.geeksforgeeks.org/wp-content/uploads/20230503013704/Mathematics-Banner.webp",
         "name": "Math",
         "question": [
             {
@@ -101,7 +101,7 @@
     },
     {
         "id": 2,
-        "img": "./src/images/tiengAnh.jpg",
+        "img": "https://fluencycorp.com/wp-content/uploads/2020/10/learn-english.jpeg",
         "name": "English",
         "question": [
             {
@@ -202,7 +202,7 @@
 
     {
         "id": 3,
-        "img": "./src/images/TinHoc.png",
+        "img": "https://tuhocdohoa.vn/wp-content/uploads/2018/04/t%C3%ACm-hi%E1%BB%83u.jpg",
         "name": "IT",
         "question": [
             {

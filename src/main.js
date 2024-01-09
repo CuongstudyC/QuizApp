@@ -5,11 +5,10 @@ import App from './App.vue'
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from './Home.vue'
 import QuizView from './components/QuizView.vue'
-
 const routes = [
   { path: '/', component: Home, name: "Home" },
   { path: '/Home', redirect: '/' },
-  {path: '/quiz/:id', component: QuizView, name: "Quiz"}
+  {path: '/quiz/:id', component: QuizView, name: "Quiz"},
 
 ]
 
